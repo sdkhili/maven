@@ -1,6 +1,6 @@
 # Application Java Web - Maven + Tomcat + Docker
 
-Guide complet pour installer et déployer une application Java Web sur Ubuntu.
+Ceci est un guide pour installer et déployer une application Java Web sur srveur Ubuntu.
 
 ---
 
