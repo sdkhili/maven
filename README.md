@@ -283,7 +283,7 @@ RUN mvn clean package -DskipTests
 
 # Stage 2 : Runtime avec Tomcat
 FROM tomcat:9.0-jdk11-temurin
-LABEL maintainer="sdkhili@example.com"
+LABEL maintainer="dkhili.saber@gmail.com"
 
 # Supprimer les apps par défaut
 RUN rm -rf /usr/local/tomcat/webapps/*
@@ -497,14 +497,6 @@ sudo systemctl restart tomcat
 **Saber Dkhili**
 - GitHub: [@sdkhili](https://github.com/sdkhili)
 - Email: dkhili.saber@gmail.com
-
----
-
-## 📝 Notes
-
-Ce README a été généré pour faciliter l'installation et le déploiement d'applications Java Web avec Maven et Tomcat.
-
-Pour toute question ou problème, n'hésitez pas à ouvrir une issue sur le repository GitHub.
 
 ---
 
