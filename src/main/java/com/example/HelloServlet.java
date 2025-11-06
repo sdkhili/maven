@@ -33,7 +33,7 @@ public class HelloServlet extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<div class='success'>");
-            out.println("<h1>✅ Déploiement réussi sur Ubuntu!</h1>");
+            out.println("<h1>Déploiement application java maven réussi sur Ubuntu!</h1>");
             out.println("</div>");
             out.println("<div class='info'>");
             out.println("<p><strong>Serveur:</strong> " + hostname + "</p>");
