@@ -227,7 +227,7 @@ EOF
 ### Cloner le repository
 
 ```bash
-git clone https://github.com/sdkhili/maven/
+git clone https://github.com/sdkhili/maven.git
 cd maven
 ```
 
